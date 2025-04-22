@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'The Color Purple Title',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'The Color Purple follows the journey of Celie and the women in her life',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
