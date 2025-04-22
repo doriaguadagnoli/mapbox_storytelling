@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Essay',
-    subtitle: 'Spatial Journeys across the South',
-    byline: 'My Name',
+    title: 'The Color Purple Project',
+    subtitle: 'Spatial Journeys in Sisterhood across the South',
+    byline: 'Doria Guadagnoli',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
