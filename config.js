@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple Title',
+            title: 'The Color Purple By Alice Walker',
             image: './assets/color_purple_cover.jpg',
             description: 'The Color Purple follows the journey of Celie and the women in her life',
             location: {
