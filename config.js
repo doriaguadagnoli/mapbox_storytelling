@@ -130,6 +130,114 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },
+        {  id: 'chapter-five',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
+        {  id: 'chapter-six',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {  id: 'chapter-seven',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
+        {  id: 'chapter-eight',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
+        {  id: 'chapter-nine',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
+        {  id: 'chapter-ten',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         }
     ]
 };
