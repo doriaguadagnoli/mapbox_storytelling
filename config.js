@@ -1,7 +1,7 @@
 var config = {
-    style: 'mapbox://styles/doriaguadagnoli/cm98uw7zz001601qn573k2ak1',
+    style: 'mapbox://styles/doriaguadagnoli/cmabshev800nh01s0hk7o5zk6',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'pk.eyJ1IjoiZG9yaWFndWFkYWdub2xpIiwiYSI6ImNtOThxdTB2eTA2MDAyaXB4eHF2a2xvOW4ifQ.4nsW7KCU5UODJ0wNdtyrow',
+    accessToken: 'ppk.eyJ1IjoiZG9yaWFndWFkYWdub2xpIiwiYSI6ImNtOThxdTB2eTA2MDAyaXB4eHF2a2xvOW4ifQ.4nsW7KCU5UODJ0wNdtyrow',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Color Purple Project',
-    subtitle: 'Spatial Journeys in Sisterhood across the South',
-    byline: 'Doria Guadagnoli',
+    title: 'Southern Texts and Their Implications',
+    subtitle: 'A Spatial Journey Across The South',
+    byline: 'Doria Guadagnoli <br> ENG 355 <br> Dr. Burgers',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -113,5 +113,5 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }
-    ]
+    
 };
