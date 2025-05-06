@@ -113,5 +113,5 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }
-    
+    ]
 };
