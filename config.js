@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/doriaguadagnoli/cmabshev800nh01s0hk7o5zk6',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'ppk.eyJ1IjoiZG9yaWFndWFkYWdub2xpIiwiYSI6ImNtOThxdTB2eTA2MDAyaXB4eHF2a2xvOW4ifQ.4nsW7KCU5UODJ0wNdtyrow',
+    accessToken: 'pk.eyJ1IjoiZG9yaWFndWFkYWdub2xpIiwiYSI6ImNtOThxdTB2eTA2MDAyaXB4eHF2a2xvOW4ifQ.4nsW7KCU5UODJ0wNdtyrow',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
