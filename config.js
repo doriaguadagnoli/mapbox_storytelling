@@ -56,12 +56,12 @@ var config = {
             hidden: false,
             title: 'The Green Home',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Sofia is paid by Mayor Green for the work she does in the house. This is one of the only economic exchanges we see between black and white folk throughout the entirety of the novel. Specifically, payment from a white man to a black woman. This particular exchange is interesting considering Sofia\’s path to actually working for the Greens. After their altercation and Sofia\’s forced employment with the Greens, she is stuck in an odd place, not being able to leave her employment with them but having no place else to go. This specific exchange and situation shows the power dynamic that persists still between the two communities.',
+            description: 'Sofia is paid by Mayor Green for the work she does in the house. This is one of the only economic exchanges we see between black and white folk throughout the entirety of the novel. Specifically, payment from a white man to a black woman. This particular exchange is interesting considering Sofia’s path to actually working for the Greens. After their altercation and Sofia’s forced employment with the Greens, she is stuck in an odd place, not being able to leave her employment with them but having no place else to go. This specific exchange and situation shows the power dynamic that persists still between the two communities.',
             location: {
                 center: [-83.557033670263, 32.999402580951326], 
                 zoom: 8.00,
                 pitch: 60,
-                bearing: -43.2,
+                bearing: -43.2
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
