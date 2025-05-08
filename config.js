@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: '<em>The Color Purple</em>',
+            title: 'The Color Purple',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/color_purple_cover.jpg',
             description: 'First, we will inspect the southern economic exchanges between the women in <em>The Color Purple</em>',
             location: {
@@ -78,9 +78,9 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Childhood Home of Celie',
             image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            description: 'Celie’s childhood home is the site of a transaction between black men. While it may be an insignificant transfer of money in the story, mapping this event and other exchanges at Celie’s home illustrates how powerless she was in her own home. It was only until Celie left home that she finally had the ability to make purchases herself. Her purchases, however, were only available through connections. It was rare that Celie made a purchase separate from her connections to Shug or Albert until the end of the book.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
