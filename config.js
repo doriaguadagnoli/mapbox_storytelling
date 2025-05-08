@@ -54,12 +54,12 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Green Home',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Sofia being payed by the mayor',
             location: {
                 center: [-83.557033670263, 32.999402580951326], 
-                zoom: 6.5,
+                zoom: 3,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
