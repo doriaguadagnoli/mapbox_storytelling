@@ -79,14 +79,13 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Childhood Home of Celie',
-            image: './assets/firestone_farm.jpg',
             description: 'The childhood home of Celie is the site of a transaction between black men. While it may be an insignificant transfer of money in the story, mapping this event and other exchanges at her home illustrates how powerless Celie was in her own home. It was only until Celie left home that she finally had the ability to make purchases herself. Her purchases, however, were only available through connections. It was rare that Celie made a purchase separate from her connections to Shug or Albert until the end of the book.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
-            },
+            }
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
