@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'The Color Purple',
-            image: '/Users/doriaguadagnoli/Desktop/color_purple_cover.jpg',
+            image: 'https://github.com/doriaguadagnoli/all_map_data/blob/5a4b8101ba7e0ad69732a75940a9e5ad5631e1cd/color_purple_cover.jpg',
             description: 'First, we will inspect the southern economic exchanges between the women in <em>The Color Purple<em>',
             location: {
                 center: [-90.3150946, 38.6605671],
