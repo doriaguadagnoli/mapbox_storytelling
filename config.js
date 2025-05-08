@@ -59,7 +59,7 @@ var config = {
             description: 'Sofia being payed by the mayor',
             location: {
                 center: [-83.557033670263, 32.999402580951326], 
-                zoom: 3,
+                zoom: 8,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
