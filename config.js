@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: '<em>The Color Purple<em>',
+            title: 'The Color Purple',
             image: './assets/color_purple_cover.jpg',
             description: 'First, we will inspect the southern economic exchanges between the women in <em>The Color Purple<em>',
             location: {
