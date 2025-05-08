@@ -85,7 +85,7 @@ var config = {
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
-            }
+            },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
