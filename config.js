@@ -32,7 +32,7 @@ var config = {
                 zoom: 4,
                 pitch: 60,
                 bearing: 0
-            }
+            },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
