@@ -56,9 +56,9 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Sofia being payed by the mayor',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.557033670263, 32.999402580951326], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
