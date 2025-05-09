@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/color_purple_cover.jpg',
-            description: 'First, we will inspect the southern economic exchanges between the women in <em>The Color Purple</em>',
+            description: 'First, we will inspect the southern economic exchanges between the women in <em>The Color Purple</em>.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -115,7 +115,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/as_i_lay_dying.jpg',
-            description: 'Now, we will inspect <em>As I Lay Dying</em> and the economic implications in the novel',
+            description: 'Now, we will inspect <em>As I Lay Dying</em> and the economic implications in the novel.',
             location: {
                 center: [-89.49127236475411, 34.28465033326839], 
                 zoom: 5,
@@ -184,7 +184,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/5a4b8101ba7e0ad69732a75940a9e5ad5631e1cd/tewwg_.jpg',
-            description: 'Lastly, we will look at <em>Their Eyes Were Watchnig God</em> and this novel\'s implications',
+            description: 'Lastly, we will look at <em>Their Eyes Were Watchnig God</em> and this novel\'s implications.',
             location: {
                 center: [-81.39224619001222, 28.54026337989474], 
                 zoom: 4,
