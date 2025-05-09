@@ -154,7 +154,7 @@ var config = {
             description: 'The Bundrens, the only white family we read about this semester, stay at a hotel during their travels to bury Mrs. Bundren. The economic exchange happening here is simply between the family and hotel. The hotel serves as the host of their emotional family experience. While they were surely not middle class, the Bundren family even being given money to stay in a hotel shows the wealth disparity between races in the south at this time. The black characters in <em>The Color Purple</em> or <em>Salvage The Bones</em> may have been in similar economic situations but were never lent money.',
             location: {
                 center: [-89.51788515537622, 34.36817121721822], 
-                zoom: 8,
+                zoom: 6,
                 pitch: 30,
                 bearing: 0
             },
@@ -171,7 +171,7 @@ var config = {
             description: 'The Bundren home and farm is where the bulk of the novel takes place. While a great deal of many of our novel\'s settings take place in a family home, a distinct feature of the Bundren\’s stagnant nature comes from their financial gain in their land itself. The Bundren family cultivates their land for profit, while Janie and Teacake in <em>Their Eyes Were Watching God</em> must travel to cultivate land they do not own for profit. In <em>The Color Purple</em>, Mr. is able to cultivate his own land, but eventually loses it. Celie finally gains her own land but, being a woman who now has other avenues to success, chooses to sell pants instead of continuing the strenuous work that goes into land upkeep. Celie\’s ability to choose switching her profession versus the Bundren\’s need to be stationary tells the story of progression in the south.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
-                zoom: 7,
+                zoom: 5,
                 pitch: 30,
                 bearing: 0
             },
@@ -188,7 +188,7 @@ var config = {
             description: '<q><em>It was her eyes: kind of dumb and hopeful and sullenly willing to be disappointed all at the same time</q>(Faulkner, 200).</em><br>The Jefferson Drugstore is the location of Dewey Dell\’s abortion attempt. This attempt goes terribly wrong when the pharmacy boy gives her fake abortion pills and then rapes her. While this location is technically just classified as a movement because there is no monetary gain for the pharmacy, I would argue that Dewey Dell\’s exchange of her body counts for some type of exchange. This “exchange” takes place because of a power imbalance being enforced upon a naive, vulnerable young woman in need. This situation seems similar in nature to Esch\’s “exchange” with Manny in <em>Salvage The Bones</em>, her body for his love. I see these similarities as a testament to naivety in girlhood transcending race and pointing to the patriarchal structure.',
             location: {
                 center: [-89.51844772251566, 34.3655557208826], 
-                zoom: 9,
+                zoom: 7,
                 pitch: 30,
                 bearing: 0
             },
