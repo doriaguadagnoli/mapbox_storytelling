@@ -256,8 +256,8 @@ var config = {
             title: 'Dr. Simmons Visits Tea Cake',
             description: 'When Tea Cake begins to develop symptoms from his dog bite, Janie calls Dr. Simmons, the white doctor on the Muck. Janie facilitates this doctor\'s visit against Tea Cake\’s liking and presumably pays for it. Janie even implies to Dr. Simmons that she is willing to pay whatever is necessary to get him healed and back to his old self. In this part of the novel, not only is Janie playing the role of a caring partner but, with their age difference and wisdom levels, she almost takes on a maternal role. Tea Cake\’s resistance to Janie\’s help while Janie pays for his check up shows her commitment to him and that money is no object, and showing Tea Cake\’s unwillingness to trust and believe Janie.',
             location: {
-                center: [-80.44804338021213, 26.880865479163457], 
-                zoom: 5,
+                center: [-80.44334557182601, 26.834751662280585], 
+                zoom: 8.5,
                 pitch: 30,
                 bearing: 0
             },
@@ -273,7 +273,7 @@ var config = {
             title: 'Janie and Tea Cake\'s Shooting',
             description: 'Janie and Tea Cake\’s shooting took place on the muck, a little out of the way from their home. Prior to their shooting practice, they had to travel to Palm Beach to get some supplies. Through her practice, Janie eventually surpassed most men in the Muck and even Tea Cake in her abilities in getting a clean shot.<br>Something unique about Janie\’s character was her possession of more money than her romantic counterpart, but her ability to save it. Janie and Tea Cake\’s trip into Palm beach to <q>spend some money<q> of theirs was probably funded by Tea Cake. While Janie\’s money was spent without her permission when Tea Cake took it, and she ended up spending her money on Tea Cake\’s doctor check up, she did not spend as much money as one might assume being that she was technically more financially secure than Tea Cake. I interpreted this as the patriarchal structure of chivalry in the south serving her.',
             location: {
-                center: [-80.44334557182601, 26.834751662280585], 
+                center: [-80.44804338021213, 26.880865479163457], 
                 zoom: 10,
                 pitch: 30,
                 bearing: 0
