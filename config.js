@@ -268,13 +268,13 @@ var config = {
             onChapterExit: []
         },
         { id: 'chapter-eleven',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'End',
-            description: 'Close of the novel.',
+            title: 'Janie and Tea Cake\'s Shooting',
+            description: 'Janie and Tea Cake\’s shooting took place on the muck, a little out of the way from their home. Prior to their shooting practice, they had to travel to Palm Beach to get some supplies. Through her practice, Janie eventually surpassed most men in the Muck and even Tea Cake in her abilities in getting a clean shot.<br>Something unique about Janie\’s character was her possession of more money than her romantic counterpart, but her ability to save it. Janie and Tea Cake\’s trip into Palm beach to <q>spend some money<q> of theirs was probably funded by Tea Cake. While Janie\’s money was spent without her permission when Tea Cake took it, and she ended up spending her money on Tea Cake\’s doctor check up, she did not spend as much money as one might assume being that she was technically more financially secure than Tea Cake. I interpreted this as the patriarchal structure of chivalry in the south serving her.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                center: [-80.44334557182601, 26.834751662280585], 
+                zoom: 10,
                 pitch: 30,
                 bearing: 0
             },
