@@ -114,7 +114,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'As I Lay Dying',
-            image: 'https://github.com/doriaguadagnoli/all_map_data/blob/main/as_i_lay_dying.jpg',
+            image: 'image: https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/as_i_lay_dying.jpg',
             description: 'Now, we will inspect <em>As I Lay Dying</em> and the economic implications in the novel',
             location: {
                 center: [-89.49127236475411, 34.28465033326839], 
