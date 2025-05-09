@@ -272,7 +272,7 @@ var config = {
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
             description: 'In conclusion...',
             location: {
-                center: [-95.93820852556478, 35.628089981135595], 
+                center: [-89.48166198038979, 34.28439371230351], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
