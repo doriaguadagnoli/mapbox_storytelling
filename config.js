@@ -184,7 +184,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/5a4b8101ba7e0ad69732a75940a9e5ad5631e1cd/tewwg_.jpg',
-            description: '',
+            description: 'Lastly, we will look at <em>Their Eyes Were Watchnig God</em> and this novel\'s implications',
             location: {
                 center: [-81.39224619001222, 28.54026337989474], 
                 zoom: 4,
