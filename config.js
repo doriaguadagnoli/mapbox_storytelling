@@ -273,7 +273,7 @@ var config = {
             description: 'In conclusion...',
             location: {
                 center: [-89.48166198038979, 34.28439371230351], 
-                zoom: 3,
+                zoom: 4,
                 pitch: 30,
                 bearing: 0
             },
