@@ -198,10 +198,9 @@ var config = {
             onChapterExit: []
         }, 
         {  id: 'chapter-nine',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
+            title: 'filler',
             description: 'Close of the novel.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -219,7 +218,6 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'End',
-            image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -237,7 +235,6 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'End',
-            image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -255,8 +252,8 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Conclusion',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
+            description: 'In conclusion...',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
