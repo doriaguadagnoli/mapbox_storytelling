@@ -129,11 +129,10 @@ var config = {
             onChapterExit: []
         },
         {  id: 'chapter-five',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'The Bundrens In Jefferson',
+            description: 'The Bundrens, the only white family we read about this semester, stay at a hotel during their travels to bury Mrs. Bundren. The economic exchange happening here is simply between the family and hotel. The hotel serves as the host of their emotional family experience. While they were surely not middle class, the Bundren family even being given money to stay in a hotel shows the wealth disparity between races in the south at this time. The black characters in The Color Purple or Salvage The Bones may have been in similar economic situations but were never lent money.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
