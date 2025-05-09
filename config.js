@@ -28,7 +28,7 @@ var config = {
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
             description: 'thesis here',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-89.48166198038979, 34.28439371230351], 
                 zoom: 4,
                 pitch: 30,
                 bearing: 0
