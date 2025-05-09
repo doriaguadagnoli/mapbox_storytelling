@@ -132,7 +132,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Bundrens In Jefferson',
-            description: 'The Bundrens, the only white family we read about this semester, stay at a hotel during their travels to bury Mrs. Bundren. The economic exchange happening here is simply between the family and hotel. The hotel serves as the host of their emotional family experience. While they were surely not middle class, the Bundren family even being given money to stay in a hotel shows the wealth disparity between races in the south at this time. The black characters in The Color Purple or Salvage The Bones may have been in similar economic situations but were never lent money.',
+            description: 'The Bundrens, the only white family we read about this semester, stay at a hotel during their travels to bury Mrs. Bundren. The economic exchange happening here is simply between the family and hotel. The hotel serves as the host of their emotional family experience. While they were surely not middle class, the Bundren family even being given money to stay in a hotel shows the wealth disparity between races in the south at this time. The black characters in <em>The Color Purple</em> or <em>Salvage The Bones</em> may have been in similar economic situations but were never lent money.',
             location: {
                 center: [-89.51788515537622, 34.36817121721822], 
                 zoom: 8,
@@ -146,14 +146,13 @@ var config = {
             onChapterExit: []
         }, 
         {  id: 'chapter-six',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Bundren Home',
+            description: 'The Bundren home and farm is where the bulk of the novel takes place. While a great deal of many of our novel\'s settings take place in a family home, a distinct feature of the Bundren\’s stagnant nature comes from their financial gain in their land itself. The Bundren family cultivates their land for profit, while Janie and Teacake in <em>Their Eyes Were Watching God</em> must travel to cultivate land they do not own for profit. In <em>The Color Purple</em>, Mr. is able to cultivate his own land, but eventually loses it. Celie finally gains her own land but, being a woman who now has other avenues to success, chooses to sell pants instead of continuing the strenuous work that goes into land upkeep. Celie\’s ability to choose switching her profession versus the Bundren\’s need to be stationary tells the story of progression in the south.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                center: [-89.48848661057376, 34.28249827482276], 
+                zoom: 7,
                 pitch: 30,
                 bearing: 0
             },
