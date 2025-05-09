@@ -118,7 +118,7 @@ var config = {
             description: 'Now, we will inspect <em>As I Lay Dying</em> and the economic implications in the novel',
             location: {
                 center: [-89.49127236475411, 34.28465033326839], 
-                zoom: 3,
+                zoom: 5,
                 pitch: 30,
                 bearing: 0
             },
