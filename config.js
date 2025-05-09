@@ -135,7 +135,7 @@ var config = {
             description: 'The Bundrens, the only white family we read about this semester, stay at a hotel during their travels to bury Mrs. Bundren. The economic exchange happening here is simply between the family and hotel. The hotel serves as the host of their emotional family experience. While they were surely not middle class, the Bundren family even being given money to stay in a hotel shows the wealth disparity between races in the south at this time. The black characters in The Color Purple or Salvage The Bones may have been in similar economic situations but were never lent money.',
             location: {
                 center: [-89.51788515537622, 34.36817121721822], 
-                zoom: 3,
+                zoom: 8,
                 pitch: 30,
                 bearing: 0
             },
