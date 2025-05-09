@@ -163,14 +163,13 @@ var config = {
             onChapterExit: []
         },
         {  id: 'chapter-seven',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Dewey Dell and the Jefferson Drugstore',
+            description: 'The Jefferson Drugstore is the location of Dewey Dell\’s abortion attempt. This attempt goes terribly wrong when the pharmacy boy gives her fake abortion pills and then rapes her. While this location is technically just classified as a movement because there is no monetary gain for the pharmacy, I would argue that Dewey Dell\’s exchange of her body counts for some type of exchange. This “exchange” takes place because of a power imbalance being enforced upon a naive, vulnerable young woman in need. This situation seems similar in nature to Esch\’s “exchange” with Manny in <em>Salvage The Bones</em>, her body for his love. I see these similarities as a testament to naivety in girlhood transcending race and pointing to the patriarchal structure.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                center: [-89.51844772251566, 34.3655557208826], 
+                zoom: 9,
                 pitch: 30,
                 bearing: 0
             },
