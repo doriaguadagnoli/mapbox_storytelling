@@ -21,6 +21,25 @@ var config = {
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
+            id: 'intro',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Thesis',
+            image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
+            description: 'thesis here',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 4,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
+        {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
