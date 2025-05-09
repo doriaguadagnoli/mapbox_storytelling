@@ -253,7 +253,7 @@ var config = {
         {  id: 'chapter-ten',
             alignment: 'right',
             hidden: false,
-            title: 'Doctor Simmons Visits Tea Cake',
+            title: 'Dr. Simmons Visits Tea Cake',
             description: 'When Tea Cake begins to develop symptoms from his dog bite, Janie calls Dr. Simmons, the white doctor on the Muck. Janie facilitates this doctor\'s visit against Tea Cake\’s liking and presumably pays for it. Janie even implies to Dr. Simmons that she is willing to pay whatever is necessary to get him healed and back to his old self. In this part of the novel, not only is Janie playing the role of a caring partner but, with their age difference and wisdom levels, she almost takes on a maternal role. Tea Cake\’s resistance to Janie\’s help while Janie pays for his check up shows her commitment to him and that money is no object, and showing Tea Cake\’s unwillingness to trust and believe Janie.',
             location: {
                 center: [-80.44334557182601, 26.834751662280585], 
