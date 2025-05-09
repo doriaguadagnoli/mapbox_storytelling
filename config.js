@@ -94,7 +94,7 @@ var config = {
         },
         {
             id: 'chapter-three',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Shug Avery and Her Car',
             description: 'Shug Avery purchases a car in Memphis. Although it is never explicitly stated who purchases the car, we can only assume Shug buys it herself, as she has her own source of income. When comparing Shug to Celie, we can see how little the reign Celie is given over her life truly is. She purchases a few small items here and there until she begins to sell pants. However, this does not become possible until meeting Shug, who instills a new sense of independence and control in her.',
@@ -113,11 +113,11 @@ var config = {
         { id: 'chapter-four',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'As I Lay Dying',
+            image: 'https://github.com/doriaguadagnoli/all_map_data/blob/main/as_i_lay_dying.jpg',
+            description: 'Now, we will inspect <em>As I Lay Dying</em> and the economic implications in the novel',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-89.49127236475411, 34.28465033326839], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
