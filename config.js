@@ -250,7 +250,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }, 
-        {  id: 'chapter-ten',
+        {  id: 'chapter-eleven',
             alignment: 'right',
             hidden: false,
             title: 'Dr. Simmons Visits Tea Cake',
@@ -267,7 +267,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        { id: 'chapter-eleven',
+        { id: 'chapter-twelve',
             alignment: 'left',
             hidden: false,
             title: 'Janie and Tea Cake\'s Shooting',
