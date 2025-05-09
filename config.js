@@ -234,13 +234,13 @@ var config = {
             onChapterExit: []
         }, 
         {  id: 'chapter-ten',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'End',
-            description: 'Close of the novel.',
+            title: 'Tea Cake\'s Spending Spree',
+            description: 'After finding Janie\’s $200 during a stop-over on their way to the Muck, Tea Cake took it upon himself to host a free feast for all at a Jacksonville railroad and gamble the rest away without Janie\’s knowledge. Although Tea Cake eventually gambled and won the money back, Janie was not concerned about this. Instead, she was upset that Tea Cake did not invite her to partake in the festivities.<br>Janie was in an unfamiliar city without her man or money. She sat and waited for his return for multiple days, only to be met with his casual return and a lively story explaining exactly how he spent her money. This entire exchange made me feel sorry for Janie and how little respect she is willing to receive just for attention and care, pointing to her low self value despite her having a way to employ her own agency (her money).',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                center: [-81.67746076856982, 29.992904183688125], 
+                zoom: 6,
                 pitch: 30,
                 bearing: 0
             },
