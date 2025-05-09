@@ -116,7 +116,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Shug Avery and Her Car',
-            description: 'Shug Avery purchases a car in Memphis. Although it is never explicitly stated who purchases the car, we can only assume Shug buys it herself, as she has her own source of income. When comparing Shug to Celie, we can see how little the reign Celie is given over her life truly is. She purchases a few small items here and there until she begins to sell pants. However, this does not become possible until meeting Shug, who instills a new sense of independence and control in her.',
+            description: '<q><em>And this is my wedding present to us, say Shug. Brand new, she say</q>(Walker, 107).</em><br>Shug Avery purchases a car in Memphis as a wedding present to Grady and herself. When comparing Shug to Celie, we can see how little the reign Celie is given over her life truly is. Celie purchases a few small items here and there until she begins to sell pants. However, this does not become possible until meeting Shug, who instills a new sense of independence and control in her. Shug being able to buy a car for her husband and herself is a clear indicator of the agency and fortune she has in her own life. Comparatively to Celie, and even Mr., this makes for a stark contrast.',
             location: {
                 center: [-90.06958208625237, 35.15221330647191], 
                 zoom: 7.50,
