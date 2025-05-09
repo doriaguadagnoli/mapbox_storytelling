@@ -187,7 +187,7 @@ var config = {
             description: 'Lastly, we will look at <em>Their Eyes Were Watchnig God</em> and this novel\'s implications.',
             location: {
                 center: [-81.39224619001222, 28.54026337989474], 
-                zoom: 4,
+                zoom: 6,
                 pitch: 30,
                 bearing: 0
             },
