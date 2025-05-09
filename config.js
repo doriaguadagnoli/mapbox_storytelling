@@ -182,12 +182,12 @@ var config = {
         {  id: 'chapter-eight',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Their Eyes Were Watching God',
+            image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/5a4b8101ba7e0ad69732a75940a9e5ad5631e1cd/tewwg_.jpg',
+            description: '',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                center: [-81.39224619001222, 28.54026337989474], 
+                zoom: 4,
                 pitch: 30,
                 bearing: 0
             },
