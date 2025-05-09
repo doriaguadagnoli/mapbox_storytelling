@@ -96,12 +96,11 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Shug Avery and Her Car',
+            description: 'Shug Avery purchases a car in Memphis. Although it is never explicitly stated who purchases the car, we can only assume Shug buys it herself, as she has her own source of income. When comparing Shug to Celie, we can see how little the reign Celie is given over her life truly is. She purchases a few small items here and there until she begins to sell pants. However, this does not become possible until meeting Shug, who instills a new sense of independence and control in her.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
+                zoom: 7.50,
                 pitch: 30,
                 bearing: 0
             },
