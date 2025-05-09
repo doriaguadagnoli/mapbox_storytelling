@@ -248,6 +248,23 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        { id: 'chapter-ten',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },  
         {  id: 'Conclusion',
             alignment: 'fully',
             hidden: false,
@@ -255,7 +272,7 @@ var config = {
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
             description: 'In conclusion...',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-95.93820852556478, 35.628089981135595], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
