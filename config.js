@@ -240,7 +240,7 @@ var config = {
             description: 'After finding Janie\’s $200 during a stop-over on their way to the Muck, Tea Cake took it upon himself to host a free feast for all at a Jacksonville railroad and gamble the rest away without Janie\’s knowledge. Although Tea Cake eventually gambled and won the money back, Janie was not concerned about this. Instead, she was upset that Tea Cake did not invite her to partake in the festivities.<br>Janie was in an unfamiliar city without her man or money. She sat and waited for his return for multiple days, only to be met with his casual return and a lively story explaining exactly how he spent her money. This entire exchange made me feel sorry for Janie and how little respect she is willing to receive just for attention and care, pointing to her low self value despite her having a way to employ her own agency (her money).',
             location: {
                 center: [-81.67746076856982, 29.992904183688125], 
-                zoom: 6,
+                zoom: 8,
                 pitch: 30,
                 bearing: 0
             },
@@ -257,7 +257,7 @@ var config = {
             description: 'When Tea Cake begins to develop symptoms from his dog bite, Janie calls Dr. Simmons, the white doctor on the Muck. Janie facilitates this doctor\'s visit against Tea Cake\’s liking and presumably pays for it. Janie even implies to Dr. Simmons that she is willing to pay whatever is necessary to get him healed and back to his old self. In this part of the novel, not only is Janie playing the role of a caring partner but, with their age difference and wisdom levels, she almost takes on a maternal role. Tea Cake\’s resistance to Janie\’s help while Janie pays for his check up shows her commitment to him and that money is no object, and showing Tea Cake\’s unwillingness to trust and believe Janie.',
             location: {
                 center: [-80.44334557182601, 26.834751662280585], 
-                zoom: 7,
+                zoom: 9,
                 pitch: 30,
                 bearing: 0
             },
