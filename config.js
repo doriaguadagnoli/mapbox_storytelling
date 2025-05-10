@@ -24,7 +24,7 @@ var config = {
             id: 'intro',
             alignment: 'fully',
             hidden: false,
-            title: 'Thesis',
+            title: 'Introduction',
             image: 'https://raw.githubusercontent.com/doriaguadagnoli/all_map_data/main/Screenshot_collage_.jpg',
             description: 'Southern Literature ranges across a wide spectrum of characters, genre, and race. In <em>The Color Purple</em>, <em>As I Lay Dying</em>, and <em>Their Eyes Were Watching God</em>, we watch as women of differing races and backgrounds navigate the patriarchal south. Specifically, we see how they navigate this space through economic exchanges and what implications those exchanges impose on their person. The economic transactions we will look at reveal how they serve as measures of power between race and gender. There is also a quiet emphasis on transactions in or around the home, and how the women of these homes are configured in relation to these exchanges. Each exchange marks critical turning points in the female characters\’ lives.',
             location: {
