@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Economic Gender Disparity',
-    subtitle: '<em>Exploring the Relationship Between Race, Gender, and Economic Exchange</em>',
+    subtitle: 'Exploring the Relationship Between Race, Gender, and Economic Exchange',
     byline: 'Doria Guadagnoli  - ENG 355  -  Dr. Burgers',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
